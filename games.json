@@ -1,0 +1,18 @@
+[
+    {"name": "Mafia 2", "ganre": ["Экшен", "FPS", "Приключение"]},
+    {"name": "Call of Duty: Modern Warfare 2", "ganre": ["Экшен", "FPS"]},
+    {"name": "Mass Effect 2", "ganre": ["Экшен", "Ролевая игра"]},
+    {"name": "StarCraft 2: Wings of Liberty", "ganre": ["Стратегии", "Стратегия в реальном времени"]},
+    {"name": "Assassin's Creed II", "ganre": ["Экшен", "Приключение"]},
+    {"name": "S.T.A.L.K.E.R.: Call of Pripyat", "ganre": ["Экшен", "FPS", "Ролевая игра"]},
+    {"name": "Assassin's Creed: Brotherhood", "ganre": ["Экшен", "Приключение"]},
+    {"name": "Ведьмак 2: Убийцы королей", "ganre": ["TPS", "Ролевая игра"]},
+    {"name": "Fallout: New Vegas", "ganre": ["Экшен", "FPS", "Ролевая игра"]},
+    {"name": "Heavy Rain", "ganre": ["Экшен", "Приключение"]},
+    {"name": "Call of Duty: Black Ops", "ganre": ["Экшен"]},
+    {"name": "The Elder Scrolls 5: Skyrim", "ganre": ["Экшен", "Ролевая игра"]},
+    {"name": "Dragon Age 2", "ganre": ["Ролевая игра"]},
+    {"name": "Bulletstorm", "ganre": ["Экшен", "FPS"]},
+    {"name": "Dragon Age: Origins", "ganre": ["Ролевая игра"]},
+    {"name": "Tom Clancy's Splinter Cell: Conviction", "ganre": ["Экшен", "Приключение"]}
+]
